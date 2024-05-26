@@ -44,7 +44,7 @@ st.subheader('Kelas : TI.22.C6')
 st.subheader('Prodi : Teknik Informatika')
 
 # Link Github langsung
-st.markdown("[Github](https://github.com/Ha63dk/Pengolahan-Citra-UTS.git)")
+st.markdown("[Github](https://github.com/sseylma/UTS_PengolahanCitraDigital.git)")
 
 # Divider
 st.write("---")
